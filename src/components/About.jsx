@@ -47,11 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a Java developer with a solid background in frameworks like Spring and Quarkus, focusing my expertise on backend development. 
+        I have extensive experience in ensuring code quality through unit and mutation testing. I work with a diverse set of technologies, including Java 8+, Grafana, JSF, Spring, Junit, Mockito, Quarkus, JBoss, PostgreSQL, Git, JS, Next.js, Angular, and Node.
+        Within the company, my constant goal is to learn and contribute creatively. I'm always open to sharing ideas to drive our collective progress.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
